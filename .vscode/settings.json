@@ -1,0 +1,10 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\Jonatas\\esp\\v5.3.2\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.portWin": "COM6",
+    "idf.toolsPathWin": "C:\\Users\\Jonatas\\.espressif",
+    "idf.flashType": "UART"
+}

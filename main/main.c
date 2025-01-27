@@ -21,4 +21,5 @@ void app_main(void)
 {       //teste de wifi
         nvs_flash_init();
         wifi_init_sta();
+        mqtt_start();
 }

@@ -395,8 +395,8 @@ CONFIG_BROKER_URL="mqtt://mqtt.eclipseprojects.io"
 #
 # WiFi Configuration
 #
-CONFIG_ESP_WIFI_SSID="myssid"
-CONFIG_ESP_WIFI_PASSWORD="mypassword"
+CONFIG_ESP_WIFI_SSID="AndroidAPA17C"
+CONFIG_ESP_WIFI_PASSWORD="hcqk0537"
 CONFIG_ESP_MAXIMUM_RETRY=5
 # end of WiFi Configuration
 

@@ -77,7 +77,7 @@ void mqtt_start(void){
 
     //Primeira mensagem: enviar para UFRN/Lab/status o valor Online
     ESP_LOGI(TAG, "Primeira publicação. Setando Online!");
-    mqtt_publish("ELE0629/Weather/Status", "Online", 1, 0);
+    mqtt_publish("ELE0629/Weather/Status", "Online", 0, 0);
 }
 
 void mqtt_subscribe(char *topic, int qos){
